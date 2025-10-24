@@ -1,0 +1,25 @@
+{
+  "relationships_following": [
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {"href": "https://www.instagram.com/janedoe", "value": "janedoe", "timestamp": 1744597149}
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {"href": "https://www.instagram.com/bestie123", "value": "bestie123", "timestamp": 1744170194}
+      ]
+    },
+    {
+      "title": "",
+      "media_list_data": [],
+      "string_list_data": [
+        {"href": "https://www.instagram.com/randomuser", "value": "randomuser", "timestamp": 1744000000}
+      ]
+    }
+  ]
+}
